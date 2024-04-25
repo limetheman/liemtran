@@ -9,7 +9,7 @@ export const Bio = {
     "",
   github: "https://github.com/limetheman",
   resume:
-    "https://drive.google.com/file/d/1v1xJ9M8yfchh_Sun8SaQlNNP9f_Cj45T/view?usp=sharing",
+    "https://drive.google.com/file/d/1qEGdEETUh-y0Hccwm1yJYs6r-NyVPCh1/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/liem-tran1/",
 };
 
