@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/liemtran/static/css/main.bf538fe7.css",
+    "main.js": "/liemtran/static/js/main.99b4052e.js",
+    "static/media/Selfie.jpg": "/liemtran/static/media/Selfie.ff4f5eefb45c353af91b.jpg",
+    "index.html": "/liemtran/index.html",
+    "main.bf538fe7.css.map": "/liemtran/static/css/main.bf538fe7.css.map",
+    "main.99b4052e.js.map": "/liemtran/static/js/main.99b4052e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.99b4052e.js"
+  ]
+}
